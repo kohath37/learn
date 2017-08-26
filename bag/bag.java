@@ -5,7 +5,7 @@ public class bag<Item> implements Iterable<Item>{
 		// TODO Auto-generated method stub
 		return null;
 	}
-	private Node first; //链表的首结点
+	private Node first;
 	private class Node
 	{
 		Item item;
